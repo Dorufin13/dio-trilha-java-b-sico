@@ -1,2 +1,2 @@
-# dio-trilha-java-b-sico
+# dio-trilha-java-basico
 Repositório criado para estudar java e suas aplicações
